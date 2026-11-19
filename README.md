@@ -1,0 +1,1 @@
+# Improving-Medical-Dense-Retrieval-through-Ontology-Guided-Hard-Negative-Learning
