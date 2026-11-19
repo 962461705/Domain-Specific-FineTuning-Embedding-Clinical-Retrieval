@@ -1,4 +1,4 @@
-# Ontology-Guided Hard-Negative Learning for Chinese Medical Dense Retrieval
+# Domain-Specific Fine-Tuning of Embedding Models for Clinical Specialty Knowledge-Enhanced Retrieval
 
 Code and disease ontologies for the paper:
 
