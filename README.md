@@ -2,7 +2,7 @@
 
 Code and disease ontologies for the paper:
 
-> "Improving Medical Dense Retrieval via Ontology-Guided Hard-Negative Learning," submitted to *IEEE Access* (under review).
+> "Domain-Specific Fine-Tuning of Embedding Models for Clinical Specialty Knowledge-Enhanced Retrieval," submitted to *IEEE Access* (under review).
 
 We study hard-negative mining for Chinese medical question–answer retrieval in two disease domains, liver disease and neurological disease. A lightweight disease ontology for each domain labels the diseases named in questions and answers. The labels are used to
 
